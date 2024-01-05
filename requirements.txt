@@ -1,0 +1,8 @@
+Python Modules to be Download
+
+Flask
+Pandas
+Numpy
+Scikit-learn
+Pickle
+Requests
